@@ -1,9 +1,10 @@
 Salahorii_PT_the_real_final_version este zipu cu gns3
 
-PythonSalahoriiPKT este zipu care contine codurile de pythin automation
+PythonSalahoriiPKT este zipul care contine codurile de python automation
 
 Iar PythonSalahorii este aceeasi chestie ca si PythonSalahoriiPKT doar ca nu este impartit in fisiere multiple, ci in unul singur
 
 PPT contine 2 demo-uri: pingul care functioneaza si rularea meniului la partea de python
+
 
 La linkuri avem documentatia de la linux si linkul spre ppt in canva
