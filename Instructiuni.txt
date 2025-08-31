@@ -7,4 +7,4 @@ Iar PythonSalahorii este aceeasi chestie ca si PythonSalahoriiPKT doar ca nu est
 PPT contine 2 demo-uri: pingul care functioneaza si rularea meniului la partea de python
 
 
-La linkuri avem documentatia de la linux si linkul spre ppt in canva
+La linkuri avem documentatia de la linux si linkul spre ppt in canva.
