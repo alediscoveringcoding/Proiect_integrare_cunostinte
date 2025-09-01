@@ -5,7 +5,7 @@ Acest proiect a fost dezvoltat în cadrul stagiului de practică la Centrul de I
 
 CCNA, Python în Telecom și Linux Essentials.
 
-Obiectivele Proiectului
+Obiectivele  Proiectului
 Proiectul urmărește rezolvarea a trei sarcini distincte, fiecare corespunzând unei părți din curriculum:
 
 
