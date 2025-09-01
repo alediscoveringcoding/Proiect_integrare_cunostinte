@@ -9,3 +9,4 @@ PPT contine 2 demo-uri: pingul care functioneaza si rularea meniului la partea d
 
 La linkuri avem documentatia de la linux si linkul spre ppt in canva.
 
+
